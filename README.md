@@ -1,0 +1,16 @@
+my personal portfolio
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+<h1> All About Me</h1>
+<title> This is my website </title>
+<img src="photo.jpg"/>
+<p>
+i am a emily. a student of dunman high school
+Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
+<br>
+<p>Here are the things I love to do the most : </p> 
+<ul>
+<li>Travelling and Exploring Places</li>
+</html>
